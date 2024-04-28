@@ -16,9 +16,9 @@ The Book Data Scraper Bot is a Python-based web scraping tool designed to extrac
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone <[repository-url](https://github.com/LeonardLeo/BookScraper--Data-Extraction-from-books.toscrape.com)>
+`git clone <[repository-url](https://github.com/LeonardLeo/BookScraper--Data-Extraction-from-books.toscrape.com)>`
 2. Run the main script to start scraping book data:
-python scraper_bot.py
+`python scraper_bot.py`
 
 
 ## Usage
